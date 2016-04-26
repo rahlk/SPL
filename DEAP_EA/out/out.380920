@@ -1,0 +1,39 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2i1-2>
+Subject: Job 380920: </share/jchen37/miniconda/bin/python2.7 Spea2Discover.py 9> Exited
+
+Job </share/jchen37/miniconda/bin/python2.7 Spea2Discover.py 9> was submitted from host <login02.hpc.ncsu.edu> by user <jchen37> in cluster <henry2>.
+Job was executed on host(s) <n2i1-2>, in queue <serial>, as user <jchen37> in cluster <henry2>.
+</home/jchen37> was used as the home directory.
+</share/jchen37/SPL/DEAP_EA> was used as the working directory.
+Started at Mon Apr 25 21:49:23 2016
+Results reported at Tue Apr 26 02:49:48 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/share/jchen37/miniconda/bin/python2.7 Spea2Discover.py 9
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :  17968.13 sec.
+    Max Memory :        45 MB
+    Max Swap   :       429 MB
+
+    Max Processes  :         3
+    Max Threads    :         4
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/err.380920> for stderr output of this job.
+
